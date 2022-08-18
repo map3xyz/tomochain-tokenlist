@@ -1,0 +1,83 @@
+{
+  "name": "@Map3/tomochain-tokenlist",
+  "timestamp": "2022-08-18T13:25:44.506Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x01F83cE6636179b54b0CC0C408f9a8bce40ae776",
+      "name": "PayFrequent EURO",
+      "decimals": 6,
+      "symbol": "PEUR",
+      "tags": []
+    },
+    {
+      "address": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
+      "name": "TOMO",
+      "decimals": 18,
+      "symbol": "TOMO",
+      "tags": []
+    },
+    {
+      "address": "0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84",
+      "name": "PayFrequent",
+      "decimals": 6,
+      "symbol": "PayFQ",
+      "tags": []
+    },
+    {
+      "address": "0x8103Bb77eD2035b5da9A3A65d9c313cb6eE41dbD",
+      "name": "TABANK",
+      "decimals": 18,
+      "symbol": "TAB",
+      "tags": []
+    },
+    {
+      "address": "0x936b1F7290c8CFC57e31D7e4a301D5F9fA5B0cd8",
+      "name": "24x7 Crypto",
+      "decimals": 4,
+      "symbol": "24x7",
+      "tags": []
+    },
+    {
+      "address": "0xcE98172f4fC9Ad02da607843A2C211b7834431da",
+      "name": "PayFrequent USD",
+      "decimals": 6,
+      "symbol": "PUSD",
+      "tags": []
+    }
+  ]
+}

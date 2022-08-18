@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aabe8594-b0fe-47e3-a2d5-297d2101c12e",
+  "links": {
+    "explorer": "https://scan.tomochain.com/address/0x17B26400621695c2D8C2D8869f6259E82D7544c4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/tomochain-tokenlist/master/0x17B26400621695c2D8C2D8869f6259E82D7544c4/logo.png"
+  },
+  "name": "TOMO",
+  "networkCode": "tomochain",
+  "spam": false,
+  "symbol": "TOMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
