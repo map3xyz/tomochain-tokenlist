@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0x936b1F7290c8CFC57e31D7e4a301D5F9fA5B0cd8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2215b960-07f6-49c4-a970-f6f587473511",
+  "links": {
+    "explorer": "https://scan.tomochain.com/address/0x936b1F7290c8CFC57e31D7e4a301D5F9fA5B0cd8"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tomochain/assets/tomochain-tokenlist/0x936b1F7290c8CFC57e31D7e4a301D5F9fA5B0cd8/logo.png"
+  },
+  "name": "24x7 Crypto",
+  "networkCode": "tomochain",
+  "spam": false,
+  "symbol": "24x7",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0xcE98172f4fC9Ad02da607843A2C211b7834431da",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d577a0ef-f922-4e38-a216-b3675c30a8ea",
+  "links": {
+    "explorer": "https://scan.tomochain.com/address/0xcE98172f4fC9Ad02da607843A2C211b7834431da"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tomochain/assets/tomochain-tokenlist/0xcE98172f4fC9Ad02da607843A2C211b7834431da/logo.png"
+  },
+  "name": "PayFrequent USD",
+  "networkCode": "tomochain",
+  "spam": false,
+  "symbol": "PUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
