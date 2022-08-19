@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "180c41fa-a771-4db6-a946-cb0a8f750114",
+  "links": {
+    "explorer": "https://scan.tomochain.com/address/0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tomochain/assets/tomochain-tokenlist/0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84/logo.png"
+  },
+  "name": "PayFrequent",
+  "networkCode": "tomochain",
+  "spam": false,
+  "symbol": "PayFQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

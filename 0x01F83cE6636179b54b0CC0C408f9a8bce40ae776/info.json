@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0x01F83cE6636179b54b0CC0C408f9a8bce40ae776",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "be166962-4864-4037-976b-c77e568283cf",
+  "links": {
+    "explorer": "https://scan.tomochain.com/address/0x01F83cE6636179b54b0CC0C408f9a8bce40ae776"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tomochain/assets/tomochain-tokenlist/0x01F83cE6636179b54b0CC0C408f9a8bce40ae776/logo.png"
+  },
+  "name": "PayFrequent EURO",
+  "networkCode": "tomochain",
+  "spam": false,
+  "symbol": "PEUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
